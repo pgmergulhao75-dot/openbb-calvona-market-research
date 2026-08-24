@@ -1,0 +1,9 @@
+# This file is used to override language statistics
+*.yml linguist-detectable=false
+
+*.tsx linguist-detectable
+public/**/*.html linguist-vendored
+yarn.lock linguist-generated
+
+build/* linguist-vendored
+# eof 3282199f
